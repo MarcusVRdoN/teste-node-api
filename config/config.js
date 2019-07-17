@@ -21,7 +21,7 @@ const config = function() {
       return {
         dbUrl: "mongodb+srv://admin:admin@clusterapi-bmp3p.mongodb.net/test?retryWrites=true&w=majority",
         jwtPassword: "MvrdoN02383596035",
-        jwtExpiresIn: "1d"
+        jwtExpiresIn: "7d"
       };
   }
 }
